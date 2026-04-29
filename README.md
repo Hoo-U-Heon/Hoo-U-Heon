@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Hu Yuheng. 
-- 👀 I’m interested in learning new coding languages. 
-- 🌱 I’m currently learning C/C++, Matlab & Python.  
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Old Shrimp. 
+- 👀 I’m interested in AI coding. 
+- 🌱 I’m currently learning C/C++, Python & Spark.  
+- 💞️ I’m looking to collaborate on Photogrammetry & Remote Sensing. 
 - 📫 How to reach me : 2023302131282@whu.edu.cn
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
